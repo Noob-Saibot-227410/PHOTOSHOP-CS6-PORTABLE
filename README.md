@@ -17,16 +17,18 @@ Adobe Photoshop CS6</li>
   
   <p>Neste repositório, você encontrará:</p>
   <ul>
-    <li>Exemplos de uso do Photoshop CS6</li>
-    <li>Recursos e tutoriais</li>
-    <li>Dicas e truques para aproveitar ao máximo o Photoshop CS6</li>
+    <li>Software portable completo do Photoshop CS6</li>
   </ul>
   
   <p>Fique à vontade para explorar o conteúdo disponível aqui e usar o Photoshop CS6 para aprimorar suas habilidades de edição de imagens e criar trabalhos incríveis!</p>
   
   <h2>Requisitos</h2>
   <ul>
-    <li>Adobe Photoshop CS6 instalado no seu computador.</li>
+    <li>Adobe Photoshop CS6 portable no seu computador.</li>
+    <li>Clone o repositório.</li>
+    <li>Deixe no local que desejar.</li>
+    <li>Descompactar.</li>
+    <li>Abrir o arquivo PSCS6.exe.</li>
   </ul>
   
   <h2>Contribuição</h2>
