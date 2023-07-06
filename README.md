@@ -3,11 +3,13 @@
 <body>
   <h1>Adobe Photoshop CS6</h1>
   
-  <img src="photoshop-icon.png" alt="Adobe Photoshop CS6">
+  <img src="https://example.com/photoshop-cs6-icon.png" alt="Adobe Photoshop CS6 Icon" style="width:30px;height:30px;">
+
   
   <h2>Tecnologias Utilizadas</h2>
   <ul>
-    <li><img src="photoshop-icon.png" alt="Adobe Photoshop CS6"> Adobe Photoshop CS6</li>
+    <li><img src="https://example.com/photoshop-cs6-icon.png" alt="Adobe Photoshop CS6 Icon" style="width:30px;height:30px;">
+Adobe Photoshop CS6</li>
   </ul>
   
   <h2>Descrição</h2>
